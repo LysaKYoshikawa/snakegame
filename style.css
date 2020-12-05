@@ -1,0 +1,23 @@
+#paper{
+    height: 95vh;
+    width: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(228, 228, 228);
+}
+
+#titulo{
+    color: forestgreen;
+    font-family: Stencil Std, fantasy;
+    font-weight: 800;
+}
+
+body{
+    margin: 10px
+}
+
+#placar {
+    margin-bottom: 10px;
+}
