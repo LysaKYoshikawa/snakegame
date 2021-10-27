@@ -1,14 +1,17 @@
 # :octocat: snakegame :snake:
 
 
-
+<img src="https://user-images.githubusercontent.com/64383080/139067407-1fb4c682-36bc-4e9b-9103-4d642915c0bb.png"/>
 
 
 
 
   #  :rocket: Sobre o Projeto
 
-Snake Game  é o famoso joguinho da cobrinha, elaborado em JavaScript 
+Snake Game  é o famoso joguinho da cobrinha, elaborado em JavaScript criado por uma variavel canvas, 
+usando referencias das keys do teclado para criar o codigo da direção.
+Ele tem um placar e vai somando conforme a snake come a comida :snake:
+Com esse projeto melhorou meu raciocinio lógico, sem mencionar que foi muito divertido !!!
 
 ### :loudspeaker: Features 
 
